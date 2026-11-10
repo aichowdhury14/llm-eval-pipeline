@@ -1,0 +1,561 @@
+{
+ "source": "SQuAD v1.1 validation (rajpurkar/squad), CC BY-SA 4.0",
+ "documents": [
+  {
+   "doc_id": "d001",
+   "title": "Super_Bowl_50",
+   "text": "Super Bowl 50 was an American football game to determine the champion of the National Football League (NFL) for the 2015 season. The American Football Conference (AFC) champion Denver Broncos defeated the National Football Conference (NFC) champion Carolina Panthers 24–10 to earn their third Super Bowl title. The game was played on February 7, 2016, at Levi's Stadium in the San Francisco Bay Area at Santa Clara, California. As this was the 50th Super Bowl, the league emphasized the \"golden anniversary\" with various gold-themed initiatives, as well as temporarily suspending the tradition of naming each Super Bowl game with Roman numerals (under which the game would have been known as \"Super Bowl L\"), so that the logo could prominently feature the Arabic numerals 50."
+  },
+  {
+   "doc_id": "d002",
+   "title": "Super_Bowl_50",
+   "text": "The Panthers finished the regular season with a 15–1 record, and quarterback Cam Newton was named the NFL Most Valuable Player (MVP). They defeated the Arizona Cardinals 49–15 in the NFC Championship Game and advanced to their second Super Bowl appearance since the franchise was founded in 1995. The Broncos finished the regular season with a 12–4 record, and denied the New England Patriots a chance to defend their title from Super Bowl XLIX by defeating them 20–18 in the AFC Championship Game. They joined the Patriots, Dallas Cowboys, and Pittsburgh Steelers as one of four teams that have made eight appearances in the Super Bowl."
+  },
+  {
+   "doc_id": "d003",
+   "title": "Super_Bowl_50",
+   "text": "The Broncos took an early lead in Super Bowl 50 and never trailed. Newton was limited by Denver's defense, which sacked him seven times and forced him into three turnovers, including a fumble which they recovered for a touchdown. Denver linebacker Von Miller was named Super Bowl MVP, recording five solo tackles, 2½ sacks, and two forced fumbles."
+  },
+  {
+   "doc_id": "d004",
+   "title": "Super_Bowl_50",
+   "text": "CBS broadcast Super Bowl 50 in the U.S., and charged an average of $5 million for a 30-second commercial during the game. The Super Bowl 50 halftime show was headlined by the British rock group Coldplay with special guest performers Beyoncé and Bruno Mars, who headlined the Super Bowl XLVII and Super Bowl XLVIII halftime shows, respectively. It was the third-most watched U.S. broadcast ever."
+  },
+  {
+   "doc_id": "d005",
+   "title": "Normans",
+   "text": "The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse (\"Norman\" comes from \"Norseman\") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries."
+  },
+  {
+   "doc_id": "d006",
+   "title": "Normans",
+   "text": "The Norman dynasty had a major political, cultural and military impact on medieval Europe and even the Near East. The Normans were famed for their martial spirit and eventually for their Christian piety, becoming exponents of the Catholic orthodoxy into which they assimilated. They adopted the Gallo-Romance language of the Frankish land they settled, their dialect becoming known as Norman, Normaund or Norman French, an important literary language. The Duchy of Normandy, which they formed by treaty with the French crown, was a great fief of medieval France, and under Richard I of Normandy was forged into a cohesive and formidable principality in feudal tenure. The Normans are noted both for their culture, such as their unique Romanesque architecture and musical traditions, and for their significant military accomplishments and innovations. Norman adventurers founded the Kingdom of Sicily under Roger II after conquering southern Italy on the Saracens and Byzantines, and an expedition on behalf of their duke, William the Conqueror, led to the Norman conquest of England at the Battle of Hastings in 1066. Norman cultural and military influence spread from these new European centres to the Crusader states of the Near East, where their prince Bohemond I founded the Principality of Antioch in the Levant, to Scotland and Wales in Great Britain, to Ireland, and to the coasts of north Africa and the Canary Islands."
+  },
+  {
+   "doc_id": "d007",
+   "title": "Normans",
+   "text": "The English name \"Normans\" comes from the French words Normans/Normanz, plural of Normant, modern French normand, which is itself borrowed from Old Low Franconian Nortmann \"Northman\" or directly from Old Norse Norðmaðr, Latinized variously as Nortmannus, Normannus, or Nordmannus (recorded in Medieval Latin, 9th century) to mean \"Norseman, Viking\"."
+  },
+  {
+   "doc_id": "d008",
+   "title": "Normans",
+   "text": "In the course of the 10th century, the initially destructive incursions of Norse war bands into the rivers of France evolved into more permanent encampments that included local women and personal property. The Duchy of Normandy, which began in 911 as a fiefdom, was established by the treaty of Saint-Clair-sur-Epte between King Charles III of West Francia and the famed Viking ruler Rollo, and was situated in the former Frankish kingdom of Neustria. The treaty offered Rollo and his men the French lands between the river Epte and the Atlantic coast in exchange for their protection against further Viking incursions. The area corresponded to the northern part of present-day Upper Normandy down to the river Seine, but the Duchy would eventually extend west beyond the Seine. The territory was roughly equivalent to the old province of Rouen, and reproduced the Roman administrative structure of Gallia Lugdunensis II (part of the former Gallia Lugdunensis)."
+  },
+  {
+   "doc_id": "d009",
+   "title": "Normans",
+   "text": "Before Rollo's arrival, its populations did not differ from Picardy or the Île-de-France, which were considered \"Frankish\". Earlier Viking settlers had begun arriving in the 880s, but were divided between colonies in the east (Roumois and Pays de Caux) around the low Seine valley and in the west in the Cotentin Peninsula, and were separated by traditional pagii, where the population remained about the same with almost no foreign settlers. Rollo's contingents who raided and ultimately settled Normandy and parts of the Atlantic coast included Danes, Norwegians, Norse–Gaels, Orkney Vikings, possibly Swedes, and Anglo-Danes from the English Danelaw under Norse control."
+  },
+  {
+   "doc_id": "d010",
+   "title": "Normans",
+   "text": "The descendants of Rollo's Vikings and their Frankish wives would replace the Norse religion and Old Norse language with Catholicism (Christianity) and the Gallo-Romance language of the local people, blending their maternal Frankish heritage with Old Norse traditions and customs to synthesize a unique \"Norman\" culture in the north of France. The Norman language was forged by the adoption of the indigenous langue d'oïl branch of Romance by a Norse-speaking ruling class, and it developed into the regional language that survives today."
+  },
+  {
+   "doc_id": "d011",
+   "title": "Teacher",
+   "text": "In the United States, each state determines the requirements for getting a license to teach in public schools. Teaching certification generally lasts three years, but teachers can receive certificates that last as long as ten years. Public school teachers are required to have a bachelor's degree and the majority must be certified by the state in which they teach. Many charter schools do not require that their teachers be certified, provided they meet the standards to be highly qualified as set by No Child Left Behind. Additionally, the requirements for substitute/temporary teachers are generally not as rigorous as those for full-time professionals. The Bureau of Labor Statistics estimates that there are 1.4 million elementary school teachers, 674,000 middle school teachers, and 1 million secondary school teachers employed in the U.S."
+  },
+  {
+   "doc_id": "d012",
+   "title": "Teacher",
+   "text": "In the past, teachers have been paid relatively low salaries. However, average teacher salaries have improved rapidly in recent years. US teachers are generally paid on graduated scales, with income depending on experience. Teachers with more experience and higher education earn more than those with a standard bachelor's degree and certificate. Salaries vary greatly depending on state, relative cost of living, and grade taught. Salaries also vary within states where wealthy suburban school districts generally have higher salary schedules than other districts. The median salary for all primary and secondary teachers was $46,000 in 2004, with the average entry salary for a teacher with a bachelor's degree being an estimated $32,000. Median salaries for preschool teachers, however, were less than half the national median for secondary teachers, clock in at an estimated $21,000 in 2004. For high school teachers, median salaries in 2007 ranged from $35,000 in South Dakota to $71,000 in New York, with a national median of $52,000. Some contracts may include long-term disability insurance, life insurance, emergency/personal leave and investment options. The American Federation of Teachers' teacher salary survey for the 2006-07 school year found that the average teacher salary was $51,009. In a salary survey report for K-12 teachers, elementary school teachers had the lowest median salary earning $39,259. High school teachers had the highest median salary earning $41,855. Many teachers take advantage of the opportunity to increase their income by supervising after-school programs and other extracurricular activities. In addition to monetary compensation, public school teachers may also enjoy greater benefits (like health insurance) compared to other occupations. Merit pay systems are on the rise for teachers, paying teachers extra money based on excellent classroom evaluations, high test scores and for high success at their overall school. Also, with the advent of the internet, many teachers are now selling their lesson plans to other teachers through the web in order to earn supplemental income, most notably on TeachersPayTeachers.com."
+  },
+  {
+   "doc_id": "d013",
+   "title": "Teacher",
+   "text": "There are many forms of spiritual or religious teachers in Christianity, across all three major traditions - (Roman) Catholic, (Eastern) Orthodox Catholic, and Protestant/Non-Denominational, with a stronger tradition of spiritual formation in the more historic and authoritarian/hierarchical Christian traditions with a long tradition of \"discernment of spirits\", of vocations, and other aspects of spiritual life, especially the Roman and Orthodox Catholic Churches. These positions include: the honoured but informal position of starets or elder - a man (or, less often, woman), often a monastic, considered to be graced by God with certain gifts for the guidance of souls and the detection and correction of prelest (spiritual pride or deception) - who acts as a spiritual guide or father in the Orthodox Catholic tradition, especially Russian Orthodoxy (see Optina Monastery, which had a long line of said starets); the Priest or Confessor in Roman Catholicism, who is often a man in Holy Orders but may be a monastic or other person respected for his spiritual accomplishments or acumen (even the Pope of Rome has a Confessor, who is not always a bishop, and, due to the hierarchical structure of the Roman Church, can not be his equal in authority), which is often a semi-official to official position, as opposed to the unofficial positions of spiritual guides in the Orthodox Catholic and Protestant traditions; and the almost-exclusively informal arrangements (generally formal only in members who are under some form of church discipline) of mentorship (both of adults and children, in the latter case often a youth pastor) in the Protestant and Non-Denominational traditions, which boundaries can be blurred with the more typically Roman \"confessor\" position in some of the more historic and conservative Reformation Churches, such as some of the Lutheran and Anglican. In keeping with the individualistic nature of most Protestant denominations, the emphasis on being guided in spiritual development is small, with a heavy emphasis placed on heavy reading and personal, Spirit-enlightened interpretation of the Holy Bible."
+  },
+  {
+   "doc_id": "d014",
+   "title": "Teacher",
+   "text": "In The Church of Jesus Christ of Latter-day Saints (LDS Church), the teacher is an office in the Aaronic priesthood, generally conferred on young boys or recent converts, and has little in common with the \"spiritual teacher\" archetype. The role of \"spiritual teacher\" may be filled by many individuals in the LDS Church, often a trusted friend, who may hold any office, from Elder to Bishop, or no office at all. The emphasis on spiritual mentorship in the LDS Church is similar to that in the more \"low-church\" traditions of Protestantism, with a stronger emphasis placed on the husband and father of a family to provide spiritual guidance for all of his family, ideally in consultation with his wife, even if the husband is not a member of the LDS Church, based on interpretatios of certain Biblical texts which proclaim the spiritual authority of husbands in marriage. Even Priesthood representatives are expected to defer to the father of the house when in his home. Further, additional spiritual guidance is offered by those holding the office of Patriarch, which is supposed by Latter-day Saints to grant certain gifts of the Spirit, such as the ability to prophesy, to its holders. This guidance is generally offered during a ceremony called the patriarchal blessing."
+  },
+  {
+   "doc_id": "d015",
+   "title": "Teacher",
+   "text": "In Hinduism the spiritual teacher is known as a guru, and, in many traditions of Hinduism - especially those common in the West - the emphasis on spiritual mentorship is extremely high, with gurus often exercising a great deal of control over the lives of their disciples."
+  },
+  {
+   "doc_id": "d016",
+   "title": "Teacher",
+   "text": "In Tibetan Buddhism the teachers of Dharma in Tibet are most commonly called a Lama. A Lama who has through phowa and siddhi consciously determined to be reborn, often many times, in order to continue their Bodhisattva vow is called a Tulku."
+  },
+  {
+   "doc_id": "d017",
+   "title": "Huguenot",
+   "text": "French Huguenots made two attempts to establish a haven in North America. In 1562, naval officer Jean Ribault led an expedition that explored Florida and the present-day Southeastern U.S., and founded the outpost of Charlesfort on Parris Island, South Carolina. The Wars of Religion precluded a return voyage, and the outpost was abandoned. In 1564, Ribault's former lieutenant René Goulaine de Laudonnière launched a second voyage to build a colony; he established Fort Caroline in what is now Jacksonville, Florida. War at home again precluded a resupply mission, and the colony struggled. In 1565 the Spanish decided to enforce their claim to La Florida, and sent Pedro Menéndez de Avilés, who established the settlement of St. Augustine near Fort Caroline. Menéndez' forces routed the French and executed most of the Protestant captives."
+  },
+  {
+   "doc_id": "d018",
+   "title": "Huguenot",
+   "text": "In 1700 several hundred French Huguenots migrated from England to the colony of Virginia, where the English Crown had promised them land grants in Lower Norfolk County. When they arrived, colonial authorities offered them instead land 20 miles above the falls of the James River, at the abandoned Monacan village known as Manakin Town, now in Powhatan County. Some settlers landed in present-day Chesterfield County. On 12 May 1705, the Virginia General Assembly passed an act to naturalise the 148 Huguenots still resident at Manakintown. Of the original 390 settlers in the isolated settlement, many had died; others lived outside town on farms in the English style; and others moved to different areas. Gradually they intermarried with their English neighbors. Through the 18th and 19th centuries, descendants of the French migrated west into the Piedmont, and across the Appalachian Mountains into the West of what became Kentucky, Tennessee, Missouri, and other states. In the Manakintown area, the Huguenot Memorial Bridge across the James River and Huguenot Road were named in their honor, as were many local features, including several schools, including Huguenot High School."
+  },
+  {
+   "doc_id": "d019",
+   "title": "Huguenot",
+   "text": "Some Huguenots fought in the Low Countries alongside the Dutch against Spain during the first years of the Dutch Revolt (1568–1609). The Dutch Republic rapidly became a destination for Huguenot exiles. Early ties were already visible in the \"Apologie\" of William the Silent, condemning the Spanish Inquisition, which was written by his court minister, the Huguenot Pierre L'Oyseleur, lord of Villiers. Louise de Coligny, daughter of the murdered Huguenot leader Gaspard de Coligny, married William the Silent, leader of the Dutch (Calvinist) revolt against Spanish (Catholic) rule. As both spoke French in daily life, their court church in the Prinsenhof in Delft held services in French. The practice has continued to the present day. The Prinsenhof is one of the 14 active Walloon churches of the Dutch Reformed Church. The ties between Huguenots and the Dutch Republic's military and political leadership, the House of Orange-Nassau, which existed since the early days of the Dutch Revolt, helped support the many early settlements of Huguenots in the Dutch Republic's colonies. They settled at the Cape of Good Hope in South Africa and New Netherland in North America."
+  },
+  {
+   "doc_id": "d020",
+   "title": "Huguenot",
+   "text": "Both before and after the 1708 passage of the Foreign Protestants Naturalization Act, an estimated 50,000 Protestant Walloons and Huguenots fled to England, with many moving on to Ireland and elsewhere. In relative terms, this was one of the largest waves of immigration ever of a single ethnic community to Britain. Andrew Lortie (born André Lortie), a leading Huguenot theologian and writer who led the exiled community in London, became known for articulating their criticism of the Pope and the doctrine of transubstantiation during Mass."
+  },
+  {
+   "doc_id": "d021",
+   "title": "Huguenot",
+   "text": "Following the French Crown's revocation of the Edict of Nantes, many Huguenots settled in Ireland in the late 17th and early 18th centuries, encouraged by an act of parliament for Protestants' settling in Ireland. Huguenot regiments fought for William of Orange in the Williamite war in Ireland, for which they were rewarded with land grants and titles, many settling in Dublin. Significant Huguenot settlements were in Dublin, Cork, Portarlington, Lisburn, Waterford and Youghal. Smaller settlements, which included Killeshandra in County Cavan, contributed to the expansion of flax cultivation and the growth of the Irish linen industry."
+  },
+  {
+   "doc_id": "d022",
+   "title": "Huguenot",
+   "text": "Prince Louis de Condé, along with his sons Daniel and Osias,[citation needed] arranged with Count Ludwig von Nassau-Saarbrücken to establish a Huguenot community in present-day Saarland in 1604. The Count supported mercantilism and welcomed technically skilled immigrants into his lands, regardless of their religion. The Condés established a thriving glass-making works, which provided wealth to the principality for many years. Other founding families created enterprises based on textiles and such traditional Huguenot occupations in France. The community and its congregation remain active to this day, with descendants of many of the founding families still living in the region. Some members of this community emigrated to the United States in the 1890s."
+  },
+  {
+   "doc_id": "d023",
+   "title": "European_Union_law",
+   "text": "The 2007 Lisbon Treaty explicitly recognised fundamental rights by providing in Article 6(1) that \"The Union recognises the rights, freedoms and principles set out in the Charter of Fundamental Rights of the European Union of 7 December 2000, as adopted at Strasbourg on 12 December 2007, which shall have the same legal value as the Treaties.\" Therefore, the Charter of Fundamental Rights of the European Union has become an integral part of European Union law, codifying the fundamental rights which were previously considered general principles of European Union law. In effect, after the Lisbon Treaty, the Charter and the Convention now co-exist under European Union law, though the former is enforced by the European Court of Justice in relation to European Union measures, and the latter by the European Court of Human Rights in relation to measures by member states."
+  },
+  {
+   "doc_id": "d024",
+   "title": "European_Union_law",
+   "text": "The Social Chapter is a chapter of the 1997 Treaty of Amsterdam covering social policy issues in European Union law. The basis for the Social Chapter was developed in 1989 by the \"social partners\" representatives, namely UNICE, the employers' confederation, the European Trade Union Confederation (ETUC) and CEEP, the European Centre of Public Enterprises. A toned down version was adopted as the Social Charter at the 1989 Strasbourg European Council. The Social Charter declares 30 general principles, including on fair remuneration of employment, health and safety at work, rights of disabled and elderly, the rights of workers, on vocational training and improvements of living conditions. The Social Charter became the basis for European Community legislation on these issues in 40 pieces of legislation."
+  },
+  {
+   "doc_id": "d025",
+   "title": "European_Union_law",
+   "text": "The Social Charter was subsequently adopted in 1989 by 11 of the then 12 member states. The UK refused to sign the Social Charter and was exempt from the legislation covering Social Charter issues unless it agreed to be bound by the legislation. The UK subsequently was the only member state to veto the Social Charter being included as the \"Social Chapter\" of the 1992 Maastricht Treaty - instead, an Agreement on Social Policy was added as a protocol. Again, the UK was exempt from legislation arising from the protocol, unless it agreed to be bound by it. The protocol was to become known as \"Social Chapter\", despite not actually being a chapter of the Maastricht Treaty. To achieve aims of the Agreement on Social Policy the European Union was to \"support and complement\" the policies of member states. The aims of the Agreement on Social Policy are:"
+  },
+  {
+   "doc_id": "d026",
+   "title": "European_Union_law",
+   "text": "Following the election of the UK Labour Party to government in 1997, the UK formally subscribed to the Agreement on Social Policy, which allowed it to be included with minor amendments as the Social Chapter of the 1997 Treaty of Amsterdam. The UK subsequently adopted the main legislation previously agreed under the Agreement on Social Policy, the 1994 Works Council Directive, which required workforce consultation in businesses, and the 1996 Parental Leave Directive. In the 10 years following the 1997 Treaty of Amsterdam and adoption of the Social Chapter the European Union has undertaken policy initiatives in various social policy areas, including labour and industry relations, equal opportunity, health and safety, public health, protection of children, the disabled and elderly, poverty, migrant workers, education, training and youth."
+  },
+  {
+   "doc_id": "d027",
+   "title": "European_Union_law",
+   "text": "EU Competition law has its origins in the European Coal and Steel Community (ECSC) agreement between France, Italy, Belgium, the Netherlands, Luxembourg and Germany in 1951 following the second World War. The agreement aimed to prevent Germany from re-establishing dominance in the production of coal and steel as members felt that its dominance had contributed to the outbreak of the war. Article 65 of the agreement banned cartels and article 66 made provisions for concentrations, or mergers, and the abuse of a dominant position by companies. This was the first time that competition law principles were included in a plurilateral regional agreement and established the trans-European model of competition law. In 1957 competition rules were included in the Treaty of Rome, also known as the EC Treaty, which established the European Economic Community (EEC). The Treaty of Rome established the enactment of competition law as one of the main aims of the EEC through the \"institution of a system ensuring that competition in the common market is not distorted\". The two central provisions on EU competition law on companies were established in article 85, which prohibited anti-competitive agreements, subject to some exemptions, and article 86 prohibiting the abuse of dominant position. The treaty also established principles on competition law for member states, with article 90 covering public undertakings, and article 92 making provisions on state aid. Regulations on mergers were not included as member states could not establish consensus on the issue at the time."
+  },
+  {
+   "doc_id": "d028",
+   "title": "European_Union_law",
+   "text": "Today, the Treaty of Lisbon prohibits anti-competitive agreements in Article 101(1), including price fixing. According to Article 101(2) any such agreements are automatically void. Article 101(3) establishes exemptions, if the collusion is for distributional or technological innovation, gives consumers a \"fair share\" of the benefit and does not include unreasonable restraints that risk eliminating competition anywhere (or compliant with the general principle of European Union law of proportionality). Article 102 prohibits the abuse of dominant position, such as price discrimination and exclusive dealing. Article 102 allows the European Council to regulations to govern mergers between firms (the current regulation is the Regulation 139/2004/EC). The general test is whether a concentration (i.e. merger or acquisition) with a community dimension (i.e. affects a number of EU member states) might significantly impede effective competition. Articles 106 and 107 provide that member state's right to deliver public services may not be obstructed, but that otherwise public enterprises must adhere to the same competition principles as companies. Article 107 lays down a general rule that the state may not aid or subsidise private parties in distortion of free competition and provides exemptions for charities, regional development objectives and in the event of a natural disaster."
+  },
+  {
+   "doc_id": "d029",
+   "title": "Newcastle_upon_Tyne",
+   "text": "The Hoppings, reputedly the largest travelling fair in Europe, takes place on Newcastle Town Moor every June. The event has its origins in the Temperance Movement during the early 1880s and coincides with the annual race week at High Gosforth Park. Newcastle Community Green Festival, which claims to be the UK's biggest free community environmental festival, also takes place every June, in Leazes Park. The Northern Rock Cyclone, a cycling festival, takes place within, or starting from, Newcastle in June. The Northern Pride Festival and Parade is held in Leazes Park and in the city's Gay Community in mid July. The Ouseburn Festival, a family oriented weekend festival near the city centre, incorporating a \"Family Fun Day\" and \"Carnival Day\", is held in late July."
+  },
+  {
+   "doc_id": "d030",
+   "title": "Newcastle_upon_Tyne",
+   "text": "Newcastle Mela, held on the late August bank holiday weekend, is an annual two-day multicultural event, blending drama, music and food from Punjabi, Pakistani, Bengali and Hindu cultures. NewcastleGateshead also holds an annual International Arts Fair. The 2009 event will be in the Norman Foster designed Sage Gateshead Music and Arts Centre in September. In October, there is the Design Event festival—an annual festival providing the public with an opportunity to see work by regional, national and international designers. The SAMA Festival, an East Asian cultural festival is also held in early October."
+  },
+  {
+   "doc_id": "d031",
+   "title": "Newcastle_upon_Tyne",
+   "text": "Lindisfarne are a folk-rock group with a strong Tyneside connection. Their most famous song, \"Fog on the Tyne\" (1971), was covered by Geordie ex-footballer Paul Gascoigne in 1990. Venom, reckoned by many to be the originators of black metal and extremely influential to the extreme metal scene as a whole, formed in Newcastle in 1979. Folk metal band Skyclad, often regarded as the first folk metal band, also formed in Newcastle after the break-up of Martin Walkyier thrash metal band, Sabbat. Andy Taylor, former lead guitarist of Duran Duran was born here in 1961. Brian Johnson was a member of local rock band Geordie before becoming the lead vocalist of AC/DC."
+  },
+  {
+   "doc_id": "d032",
+   "title": "Newcastle_upon_Tyne",
+   "text": "The Pilgrim Street building was refurbished between November 2006 and May 2008; during the refurbishment works, the cinema relocated to the Old Town Hall, Gateshead. In May 2008 the Tyneside Cinema reopened in the restored and refurbished original building. The site currently houses three cinemas, including the restored Classic —the United Kingdom's last surviving news cinema still in full-time operation—alongside two new screens, a roof extension containing the Tyneside Bar, and dedicated education and teaching suites."
+  },
+  {
+   "doc_id": "d033",
+   "title": "Newcastle_upon_Tyne",
+   "text": "There are several museums and galleries in Newcastle, including the Centre for Life with its Science Village; the Discovery Museum a museum highlighting life on Tyneside, including Tyneside's shipbuilding heritage, and inventions which changed the world; the Great North Museum; in 2009 the Newcastle on Tyne Museum of Antiquities merged with the Great North Museum (Hancock Museum); Seven Stories a museum dedicated to children's books, the Side Gallery historical and contemporary photography from around the world and Northern England and the Newburn Hall Motor Museum."
+  },
+  {
+   "doc_id": "d034",
+   "title": "Newcastle_upon_Tyne",
+   "text": "The earliest known movie featuring some exterior scenes filmed in the city is On the Night of the Fire (1939), though by and large the action is studio-bound. Later came The Clouded Yellow (1951) and Payroll (1961), both of which feature more extensive scenes filmed in the city. The 1971 film Get Carter was shot on location in and around Newcastle and offers an opportunity to see what Newcastle looked like in the 1960s and early 1970s. The city was also backdrop to another gangster film, the 1988 film noir thriller Stormy Monday, directed by Mike Figgis and starring Tommy Lee Jones, Melanie Griffith, Sting and Sean Bean."
+  },
+  {
+   "doc_id": "d035",
+   "title": "Genghis_Khan",
+   "text": "One theory suggests the name stems from a palatalised version of the Mongolian and Turkic word tenggis, meaning \"ocean\", \"oceanic\" or \"wide-spreading\". (Lake Baikal and ocean were called tenggis by the Mongols. However, it seems that if they had meant to call Genghis tenggis they could have said, and written, \"Tenggis Khan\", which they did not.) Zhèng (Chinese: 正) meaning \"right\", \"just\", or \"true\", would have received the Mongolian adjectival modifier -s, creating \"Jenggis\", which in medieval romanization would be written \"Genghis\". It is likely that the 13th century Mongolian pronunciation would have closely matched \"Chinggis\"."
+  },
+  {
+   "doc_id": "d036",
+   "title": "Genghis_Khan",
+   "text": "Genghis Khan, the title is spelled in variety of ways in different languages such as Mongolian Chinggis Khaan, English Chinghiz, Chinghis, and Chingiz, Chinese: 成吉思汗; pinyin: Chéngjísī Hán, Turkic: Cengiz Han, Çingiz Xan, Çingiz Han, Chingizxon, Çıñğız Xan, Chengez Khan, Chinggis Khan, Chinggis Xaan, Chingis Khan, Jenghis Khan, Chinggis Qan, Djingis Kahn, Russian: Чингисхан (Čingiskhan) or Чингиз-хан (Čingiz-khan), etc. Temüjin is written in Chinese as simplified Chinese: 铁木真; traditional Chinese: 鐵木眞; pinyin: Tiěmùzhēn."
+  },
+  {
+   "doc_id": "d037",
+   "title": "Pharmacy",
+   "text": "The word pharmacy is derived from its root word pharma which was a term used since the 15th–17th centuries. However, the original Greek roots from pharmakos imply sorcery or even poison. In addition to pharma responsibilities, the pharma offered general medical advice and a range of services that are now performed solely by other specialist practitioners, such as surgery and midwifery. The pharma (as it was referred to) often operated through a retail shop which, in addition to ingredients for medicines, sold tobacco and patent medicines. Often the place that did this was called an apothecary and several languages have this as the dominant term, though their practices are more akin to a modern pharmacy, in English the term apothecary would today be seen as outdated or only approproriate if herbal remedies were on offer to a large extent. The pharmas also used many other herbs not listed. The Greek word Pharmakeia (Greek: φαρμακεία) derives from pharmakon (φάρμακον), meaning \"drug\", \"medicine\" (or \"poison\").[n 1]"
+  },
+  {
+   "doc_id": "d038",
+   "title": "Pharmacy",
+   "text": "Pharmacists are healthcare professionals with specialised education and training who perform various roles to ensure optimal health outcomes for their patients through the quality use of medicines. Pharmacists may also be small-business proprietors, owning the pharmacy in which they practice. Since pharmacists know about the mode of action of a particular drug, and its metabolism and physiological effects on the human body in great detail, they play an important role in optimisation of a drug treatment for an individual."
+  },
+  {
+   "doc_id": "d039",
+   "title": "Pharmacy",
+   "text": "A Pharmacy Technician in the UK is considered a health care professional and often does not work under the direct supervision of a pharmacist (if employed in a hospital pharmacy) but instead is supervised and managed by other senior pharmacy technicians. In the UK the role of a PhT has grown and responsibility has been passed on to them to manage the pharmacy department and specialised areas in pharmacy practice allowing pharmacists the time to specialise in their expert field as medication consultants spending more time working with patients and in research. A pharmacy technician once qualified has to register as a professional on the General Pharmaceutical Council (GPhC) register. The GPhC is the governing body for pharmacy health care professionals and this is who regulates the practice of pharmacists and pharmacy technicians."
+  },
+  {
+   "doc_id": "d040",
+   "title": "Pharmacy",
+   "text": "In Ancient Greece, Diocles of Carystus (4th century BC) was one of several men studying the medicinal properties of plants. He wrote several treatises on the topic. The Greek physician Pedanius Dioscorides is famous for writing a five volume book in his native Greek Περί ύλης ιατρικής in the 1st century AD. The Latin translation De Materia Medica (Concerning medical substances) was used a basis for many medieval texts, and was built upon by many middle eastern scientists during the Islamic Golden Age. The title coined the term materia medica."
+  },
+  {
+   "doc_id": "d041",
+   "title": "Economic_inequality",
+   "text": "Another cause is the rate at which income is taxed coupled with the progressivity of the tax system. A progressive tax is a tax by which the tax rate increases as the taxable base amount increases. In a progressive tax system, the level of the top tax rate will often have a direct impact on the level of inequality within a society, either increasing it or decreasing it, provided that income does not change as a result of the change in tax regime. Additionally, steeper tax progressivity applied to social spending can result in a more equal distribution of income across the board. The difference between the Gini index for an income distribution before taxation and the Gini index after taxation is an indicator for the effects of such taxation."
+  },
+  {
+   "doc_id": "d042",
+   "title": "Economic_inequality",
+   "text": "An important factor in the creation of inequality is variation in individuals' access to education. Education, especially in an area where there is a high demand for workers, creates high wages for those with this education, however, increases in education first increase and then decrease growth as well as income inequality. As a result, those who are unable to afford an education, or choose not to pursue optional education, generally receive much lower wages. The justification for this is that a lack of education leads directly to lower incomes, and thus lower aggregate savings and investment. Conversely, education raises incomes and promotes growth because it helps to unleash the productive potential of the poor."
+  },
+  {
+   "doc_id": "d043",
+   "title": "Economic_inequality",
+   "text": "In 2014, economists with the Standard & Poor's rating agency concluded that the widening disparity between the U.S.'s wealthiest citizens and the rest of the nation had slowed its recovery from the 2008-2009 recession and made it more prone to boom-and-bust cycles. To partially remedy the wealth gap and the resulting slow growth, S&P recommended increasing access to education. It estimated that if the average United States worker had completed just one more year of school, it would add an additional $105 billion in growth to the country's economy over five years."
+  },
+  {
+   "doc_id": "d044",
+   "title": "Economic_inequality",
+   "text": "During the mass high school education movement from 1910–1940, there was an increase in skilled workers, which led to a decrease in the price of skilled labor. High school education during the period was designed to equip students with necessary skill sets to be able to perform at work. In fact, it differs from the present high school education, which is regarded as a stepping-stone to acquire college and advanced degrees. This decrease in wages caused a period of compression and decreased inequality between skilled and unskilled workers. Education is very important for the growth of the economy, however educational inequality in gender also influence towards the economy. Lagerlof and Galor stated that gender inequality in education can result to low economic growth, and continued gender inequality in education, thus creating a poverty trap. It is suggested that a large gap in male and female education may indicate backwardness and so may be associated with lower economic growth, which can explain why there is economic inequality between countries."
+  },
+  {
+   "doc_id": "d045",
+   "title": "Economic_inequality",
+   "text": "John Schmitt and Ben Zipperer (2006) of the CEPR point to economic liberalism and the reduction of business regulation along with the decline of union membership as one of the causes of economic inequality. In an analysis of the effects of intensive Anglo-American liberal policies in comparison to continental European liberalism, where unions have remained strong, they concluded \"The U.S. economic and social model is associated with substantial levels of social exclusion, including high levels of income inequality, high relative and absolute poverty rates, poor and unequal educational outcomes, poor health outcomes, and high rates of crime and incarceration. At the same time, the available evidence provides little support for the view that U.S.-style labor-market flexibility dramatically improves labor-market outcomes. Despite popular prejudices to the contrary, the U.S. economy consistently affords a lower level of economic mobility than all the continental European countries for which data is available.\""
+  },
+  {
+   "doc_id": "d046",
+   "title": "Economic_inequality",
+   "text": "Sociologist Jake Rosenfield of the University of Washington asserts that the decline of organized labor in the United States has played a more significant role in expanding the income gap than technological changes and globalization, which were also experienced by other industrialized nations that didn't experience steep surges in inequality. He points out that nations with high rates of unionization, particularly in Scandinavia, have very low levels of inequality, and concludes \"the historical pattern is clear; the cross-national pattern is clear: high inequality goes hand-in-hand with weak labor movements and vice-versa.\""
+  },
+  {
+   "doc_id": "d047",
+   "title": "Kenya",
+   "text": "Kenya’s armed forces, like many government institutions in the country, have been tainted by corruption allegations. Because the operations of the armed forces have been traditionally cloaked by the ubiquitous blanket of “state security”, the corruption has been less in public view, and thus less subject to public scrutiny and notoriety. This has changed recently. In what are by Kenyan standards unprecedented revelations, in 2010, credible claims of corruption were made with regard to recruitment  and procurement of Armoured Personnel Carriers. Further, the wisdom and prudence of certain decisions of procurement have been publicly questioned."
+  },
+  {
+   "doc_id": "d048",
+   "title": "Kenya",
+   "text": "Although Kenya is the biggest and most advanced economy in east and central Africa, and has an affluent urban minority, it has a Human Development Index (HDI) of 0.519, ranked 145 out of 186 in the world. As of 2005, 17.7% of Kenyans lived on less than $1.25 a day. The important agricultural sector is one of the least developed and largely inefficient, employing 75% of the workforce compared to less than 3% in the food secure developed countries. Kenya is usually classified as a frontier market or occasionally an emerging market, but it is not one of the least developed countries."
+  },
+  {
+   "doc_id": "d049",
+   "title": "Kenya",
+   "text": "East and Central Africa's biggest economy has posted tremendous growth in the service sector, boosted by rapid expansion in telecommunication and financial activity over the last decade, and now[when?] contributes 62% of GDP. 22% of GDP still comes from the unreliable agricultural sector which employs 75% of the labour force (a consistent characteristic of under-developed economies that have not attained food security – an important catalyst of economic growth) A small portion of the population relies on food aid.[citation needed] Industry and manufacturing is the smallest sector, accounting for 16% of GDP. The service, industry and manufacturing sectors only employ 25% of the labour force but contribute 75% of GDP."
+  },
+  {
+   "doc_id": "d050",
+   "title": "Kenya",
+   "text": "Kenya's services sector, which contributes 61% of GDP, is dominated by tourism. The tourism sector has exhibited steady growth in most years since independence and by the late 1980s had become the country's principal source of foreign exchange. Tourists, the largest number being from Germany and the United Kingdom, are attracted mainly to the coastal beaches and the game reserves, notably, the expansive East and West Tsavo National Park 20,808 square kilometres (8,034 sq mi) in the southeast. Tourism has seen a substantial revival over the past several years and is the major contributor to the pick-up in the country's economic growth. Tourism is now Kenya's largest foreign exchange earning sector, followed by flowers, tea, and coffee. In 2006 tourism generated US$803 million, up from US$699 million the previous year. Presently, there are also numerous Shopping Malls in Kenya. In addition, there are four main hypermarket chains in Kenya."
+  },
+  {
+   "doc_id": "d051",
+   "title": "Kenya",
+   "text": "Agriculture is the second largest contributor to Kenya's gross domestic product (GDP), after the service sector. In 2005 agriculture, including forestry and fishing, accounted for 24% of GDP, as well as for 18% of wage employment and 50% of revenue from exports. The principal cash crops are tea, horticultural produce, and coffee. Horticultural produce and tea are the main growth sectors and the two most valuable of all of Kenya's exports. The production of major food staples such as corn is subject to sharp weather-related fluctuations. Production downturns periodically necessitate food aid—for example, in 2004 aid for 1.8 million people because of one of Kenya's intermittent droughts.[citation needed]"
+  },
+  {
+   "doc_id": "d052",
+   "title": "Kenya",
+   "text": "A consortium led by the International Crops Research Institute for the Semi-Arid Tropics (ICRISAT) has had some success in helping farmers grow new pigeon pea varieties, instead of maize, in particularly dry areas. Pigeon peas are very drought resistant, so can be grown in areas with less than 650 mm annual rainfall. Successive projects encouraged the commercialisation of legumes, by stimulating the growth of local seed production and agro-dealer networks for distribution and marketing. This work, which included linking producers to wholesalers, helped to increase local producer prices by 20–25% in Nairobi and Mombasa. The commercialisation of the pigeon pea is now enabling some farmers to buy assets, ranging from mobile phones to productive land and livestock, and is opening pathways for them to move out of poverty."
+  },
+  {
+   "doc_id": "d053",
+   "title": "Scottish_Parliament",
+   "text": "Much of the work of the Scottish Parliament is done in committee. The role of committees is stronger in the Scottish Parliament than in other parliamentary systems, partly as a means of strengthening the role of backbenchers in their scrutiny of the government and partly to compensate for the fact that there is no revising chamber. The principal role of committees in the Scottish Parliament is to take evidence from witnesses, conduct inquiries and scrutinise legislation. Committee meetings take place on Tuesday, Wednesday and Thursday morning when Parliament is sitting. Committees can also meet at other locations throughout Scotland."
+  },
+  {
+   "doc_id": "d054",
+   "title": "Scottish_Parliament",
+   "text": "Committees comprise a small number of MSPs, with membership reflecting the balance of parties across Parliament. There are different committees with their functions set out in different ways. Mandatory Committees are committees which are set down under the Scottish Parliament's standing orders, which govern their remits and proceedings. The current Mandatory Committees in the fourth Session of the Scottish Parliament are: Public Audit; Equal Opportunities; European and External Relations; Finance; Public Petitions; Standards, Procedures and Public Appointments; and Delegated Powers and Law Reform."
+  },
+  {
+   "doc_id": "d055",
+   "title": "Scottish_Parliament",
+   "text": "Subject Committees are established at the beginning of each parliamentary session, and again the members on each committee reflect the balance of parties across Parliament. Typically each committee corresponds with one (or more) of the departments (or ministries) of the Scottish Government. The current Subject Committees in the fourth Session are: Economy, Energy and Tourism; Education and Culture; Health and Sport; Justice; Local Government and Regeneration; Rural Affairs, Climate Change and Environment; Welfare Reform; and Infrastructure and Capital Investment."
+  },
+  {
+   "doc_id": "d056",
+   "title": "Scottish_Parliament",
+   "text": "A further type of committee is normally set up to scrutinise private bills submitted to the Scottish Parliament by an outside party or promoter who is not a member of the Scottish Parliament or Scottish Government. Private bills normally relate to large-scale development projects such as infrastructure projects that require the use of land or property. Private Bill Committees have been set up to consider legislation on issues such as the development of the Edinburgh Tram Network, the Glasgow Airport Rail Link, the Airdrie-Bathgate Rail Link and extensions to the National Gallery of Scotland."
+  },
+  {
+   "doc_id": "d057",
+   "title": "Scottish_Parliament",
+   "text": "The Scotland Act 1998, which was passed by the Parliament of the United Kingdom and given royal assent by Queen Elizabeth II on 19 November 1998, governs the functions and role of the Scottish Parliament and delimits its legislative competence. The Scotland Act 2012 extends the devolved competencies. For the purposes of parliamentary sovereignty, the Parliament of the United Kingdom at Westminster continues to constitute the supreme legislature of Scotland. However, under the terms of the Scotland Act, Westminster agreed to devolve some of its responsibilities over Scottish domestic policy to the Scottish Parliament. Such \"devolved matters\" include education, health, agriculture and justice. The Scotland Act enabled the Scottish Parliament to pass primary legislation on these issues. A degree of domestic authority, and all foreign policy, remain with the UK Parliament in Westminster. The Scottish Parliament has the power to pass laws and has limited tax-varying capability. Another of the roles of the Parliament is to hold the Scottish Government to account."
+  },
+  {
+   "doc_id": "d058",
+   "title": "Scottish_Parliament",
+   "text": "The specific devolved matters are all subjects which are not explicitly stated in Schedule 5 to the Scotland Act as reserved matters. All matters that are not specifically reserved are automatically devolved to the Scottish Parliament. Most importantly, this includes agriculture, fisheries and forestry, economic development, education, environment, food standards, health, home affairs, Scots law – courts, police and fire services, local government, sport and the arts, transport, training, tourism, research and statistics and social work. The Scottish Parliament has the ability to alter income tax in Scotland by up to 3 pence in the pound. The 2012 Act conferred further fiscal devolution including borrowing powers and some other unconnected matters such as setting speed limits and control of air guns."
+  }
+ ],
+ "questions": [
+  {
+   "question_id": "56be4eafacb8001400a50302",
+   "question": "Who was the Super Bowl 50 MVP?",
+   "answers": [
+    "Miller",
+    "Von Miller"
+   ],
+   "doc_id": "d003"
+  },
+  {
+   "question_id": "56be5333acb8001400a5030a",
+   "question": "Which network broadcasted Super Bowl 50 in the U.S.?",
+   "answers": [
+    "CBS"
+   ],
+   "doc_id": "d004"
+  },
+  {
+   "question_id": "56dde0379a695914005b9636",
+   "question": "What is the original meaning of the word Norman?",
+   "answers": [
+    "Norseman, Viking",
+    "Viking"
+   ],
+   "doc_id": "d007"
+  },
+  {
+   "question_id": "56dde0ba66d3e219004dad75",
+   "question": "When was the Duchy of Normandy founded?",
+   "answers": [
+    "911"
+   ],
+   "doc_id": "d008"
+  },
+  {
+   "question_id": "56dde1d966d3e219004dad8d",
+   "question": "Who upon arriving gave the original viking settlers a common identity?",
+   "answers": [
+    "Rollo"
+   ],
+   "doc_id": "d009"
+  },
+  {
+   "question_id": "56dde27d9a695914005b9651",
+   "question": "What was the Norman religion?",
+   "answers": [
+    "Catholicism"
+   ],
+   "doc_id": "d010"
+  },
+  {
+   "question_id": "56e77a8700c9c71400d7718a",
+   "question": "In general, what were teachers paid in the past?",
+   "answers": [
+    "relatively low salaries"
+   ],
+   "doc_id": "d012"
+  },
+  {
+   "question_id": "56e77b8c00c9c71400d77194",
+   "question": "How many types of religious or spiritual teachers are there in Christianity?",
+   "answers": [
+    "many",
+    "three"
+   ],
+   "doc_id": "d013"
+  },
+  {
+   "question_id": "56e77da237bdd419002c403b",
+   "question": "What is the name of a teacher in Tibetan Buddhism?",
+   "answers": [
+    "Lama",
+    "a Lama"
+   ],
+   "doc_id": "d016"
+  },
+  {
+   "question_id": "5710ed7bb654c5140001fa2b",
+   "question": "When was the Dutch Revolt?",
+   "answers": [
+    "1568–1609"
+   ],
+   "doc_id": "d019"
+  },
+  {
+   "question_id": "5710f2e2a58dae1900cd6b72",
+   "question": "What war in Ireland featured Huguenot regiments?",
+   "answers": [
+    "Williamite",
+    "Williamite war",
+    "the Williamite war"
+   ],
+   "doc_id": "d021"
+  },
+  {
+   "question_id": "5710f4b8b654c5140001fa45",
+   "question": "Which noble helped establish the Huguenot settlement in Saarland?",
+   "answers": [
+    "Louis de Condé",
+    "Prince Louis de Condé"
+   ],
+   "doc_id": "d022"
+  },
+  {
+   "question_id": "5726a5525951b619008f78dd",
+   "question": "What lead to the UK to subscribe to the agreement on Social Policy?",
+   "answers": [
+    "the election of the UK Labour Party to government",
+    "the election of the UK Labour Party to government in 1997"
+   ],
+   "doc_id": "d026"
+  },
+  {
+   "question_id": "57268341f1498d1400e8e240",
+   "question": "Which festival is held in Newcastle's Gay Community in mid-July?",
+   "answers": [
+    "The Northern Pride Festival",
+    "The Northern Pride Festival and Parade"
+   ],
+   "doc_id": "d029"
+  },
+  {
+   "question_id": "572683e6f1498d1400e8e24c",
+   "question": "What is an annual two-day multicultural event held in Newcastle in late August?",
+   "answers": [
+    "Newcastle Mela"
+   ],
+   "doc_id": "d030"
+  },
+  {
+   "question_id": "5726847f708984140094c8ab",
+   "question": "What genre of music is Lindisfarne classified as?",
+   "answers": [
+    "folk-rock"
+   ],
+   "doc_id": "d031"
+  },
+  {
+   "question_id": "57268525dd62a815002e8806",
+   "question": "Between what dates was the building on Pilgrim Street refurbished? ",
+   "answers": [
+    "November 2006 and May 2008",
+    "between November 2006 and May 2008"
+   ],
+   "doc_id": "d032"
+  },
+  {
+   "question_id": "57268731f1498d1400e8e2e2",
+   "question": "What is the earliest known movie featuring scenes filmed outdoors in Newcastle?",
+   "answers": [
+    "On the Night of the Fire",
+    "On the Night of the Fire (1939),"
+   ],
+   "doc_id": "d034"
+  },
+  {
+   "question_id": "5726d9935951b619008f7fed",
+   "question": "What type of professionals are pharmacists?",
+   "answers": [
+    "healthcare",
+    "healthcare professionals",
+    "healthcare professionals with specialised education"
+   ],
+   "doc_id": "d038"
+  },
+  {
+   "question_id": "5726db5add62a815002e92d5",
+   "question": "What is Pedanius Dioscorides known for?",
+   "answers": [
+    "five volume book in his native Greek",
+    "writing a five volume book",
+    "writing a five volume book in his native Greek"
+   ],
+   "doc_id": "d040"
+  },
+  {
+   "question_id": "5727ef664b864d1900164060",
+   "question": "What is it called when the tax rate and base amount increase simultaneously?",
+   "answers": [
+    "progressive",
+    "progressive tax"
+   ],
+   "doc_id": "d041"
+  },
+  {
+   "question_id": "5727f05b4b864d1900164068",
+   "question": "What is key to getting the skills needed for high demand jobs?",
+   "answers": [
+    "Education",
+    "access to education",
+    "education"
+   ],
+   "doc_id": "d042"
+  },
+  {
+   "question_id": "5727f6723acd2414000df0e7",
+   "question": "What types of organizations are on a decline in the US which adversely effects economic mobility?",
+   "answers": [
+    "union membership",
+    "unions"
+   ],
+   "doc_id": "d045"
+  },
+  {
+   "question_id": "572916f16aef051400154a56",
+   "question": "What is Kenya's HDI?",
+   "answers": [
+    "0.519",
+    "0.519, ranked 145 out of 186 in the world"
+   ],
+   "doc_id": "d048"
+  },
+  {
+   "question_id": "572917743f37b3190047800d",
+   "question": "What was East and Central Africa's economy boosted by?",
+   "answers": [
+    "rapid expansion in telecommunication and financial activity"
+   ],
+   "doc_id": "d049"
+  },
+  {
+   "question_id": "572918bd3f37b31900478016",
+   "question": "How much of the GDP was agriculture in 2005?",
+   "answers": [
+    "24%"
+   ],
+   "doc_id": "d051"
+  },
+  {
+   "question_id": "57291a7b1d0469140077903f",
+   "question": "What institution has helped farmers grow new pigeon pea varieties?",
+   "answers": [
+    "ICRISAT",
+    "International Crops Research Institute for the Semi-Arid Tropics",
+    "International Crops Research Institute for the Semi-Arid Tropics (ICRISAT)"
+   ],
+   "doc_id": "d052"
+  },
+  {
+   "question_id": "572fc8a904bcaa1900d76d1f",
+   "question": "What is set up to scrutinize private bills submitted by party outsiders?",
+   "answers": [
+    "committee",
+    "type of committee"
+   ],
+   "doc_id": "d056"
+  },
+  {
+   "question_id": "572fca7eb2c2fd1400568473",
+   "question": "What act sets forth the functions of the Scottish Parliament?",
+   "answers": [
+    "Scotland Act 1998",
+    "The Scotland Act 1998"
+   ],
+   "doc_id": "d057"
+  },
+  {
+   "question_id": "572fcb6da23a5019007fc9f1",
+   "question": "Where are reserved matters stated in the Scotland Act?",
+   "answers": [
+    "Schedule 5"
+   ],
+   "doc_id": "d058"
+  }
+ ]
+}
