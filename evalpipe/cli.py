@@ -1,10 +1,11 @@
-"""Command line: python -m evalpipe <ingest|run|score|runs|compare|report>"""
+"""Command line: python -m evalpipe <ingest|run|score|runs|compare|report|export>"""
 import argparse
 import sys
 from datetime import date
 
 from . import report
 from .db import ROOT, connect
+from .export import export_snapshot
 from .ingest import ingest
 from .ollama import OllamaClient
 from .runner import FAULTS, MODES, PROMPTS, run_eval
@@ -43,6 +44,7 @@ def main(argv=None):
     p.add_argument("--max-drop", type=float, default=0.05)
 
     sub.add_parser("report", help="write reports/runs.md")
+    sub.add_parser("export", help="refresh the dashboard snapshots")
 
     args = parser.parse_args(argv)
     con = connect()
@@ -80,4 +82,6 @@ def _dispatch(args, con):
         body = report.table(report.summary(con), report.SUMMARY_COLS, markdown=True)
         out.write_text(f"# Evaluation runs\n\nUpdated {date.today()}.\n\n{body}\n", encoding="utf-8")
         print(f"Wrote {out}")
+    elif args.cmd == "export":
+        print(f"Wrote snapshots to {export_snapshot(con)}")
     return 0

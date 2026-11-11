@@ -1,5 +1,6 @@
 """Scoring is a separate stage: it can be re-run on old results when metrics change."""
 from . import metrics
+from .export import export_snapshot
 
 
 def score_run(con, run_id):
@@ -22,4 +23,5 @@ def score_run(con, run_id):
         ))
     con.execute("DELETE FROM scores WHERE run_id = ?", [run_id])
     con.executemany("INSERT INTO scores VALUES (?, ?, ?, ?, ?, ?, ?)", scored)
+    export_snapshot(con)
     return len(scored)

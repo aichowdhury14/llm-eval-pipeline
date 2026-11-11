@@ -18,6 +18,7 @@ SQuAD sample ──► data/testset.json ──► DuckDB ──► run (retriev
 | Run | `evalpipe/runner.py` | A stand-in bot: embeds the question, retrieves the top passages, asks the model, logs the row |
 | Score | `evalpipe/scoring.py`, `metrics.py` | Exact match, token F1, contains-answer, retrieval hit rate, mean reciprocal rank |
 | Compare | `evalpipe/report.py` | Compares two runs and exits with code 1 if any metric dropped too far |
+| Export | `evalpipe/export.py` | Writes Parquet snapshots of the scores after every run, for the dashboard |
 | Dashboard | `dashboard.py` | Streamlit page with run scores and a question-by-question diff |
 
 The bot has three modes, so you can tell retrieval problems apart from model problems:
@@ -55,7 +56,7 @@ python -m evalpipe compare baseline verbose-prompt
 # 5. See everything
 python -m evalpipe runs
 python -m evalpipe report        # writes reports/runs.md
-streamlit run dashboard.py
+python -m streamlit run dashboard.py
 ```
 
 ### Prove the pipeline catches a fault
@@ -79,7 +80,8 @@ The tests swap Ollama for a fake model, so they run in seconds and in GitHub Act
 
 - **Memory:** the two models need roughly 1.5 GB free each, and are never loaded at the same time. If Ollama reports "failed to allocate buffer", close some applications and run again.
 - **Speed:** expect a few seconds to half a minute per question on CPU. Use `--limit 5` for a quick check.
-- **Dashboard:** DuckDB allows one writer, so open the dashboard after a run finishes, not during it.
+- **Dashboard:** DuckDB lets only one process open the database file, so the dashboard reads Parquet snapshots in `data/export` instead. It can stay open during a run and shows each run once it finishes; press R in the browser to reload.
+- **One run at a time:** for the same reason, a second `evalpipe` command fails with a "file is being used by another process" error while a run is in progress.
 - **Metrics:** there is no LLM judge yet. All scores are deterministic string and ranking metrics, which are fast and repeatable but strict on wording.
 
 ## Data
